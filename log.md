@@ -19,12 +19,12 @@
 **Link(s) to work**: [Calculator App](http://www.example.com)
  -->
 
-### Day 1: June 27, Monday
+<!-- 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
+### Day 1: June 27, Sunday
 
 **Today's Progress**: I've gone through the week 2 lecture of CS50.
 
 **Thoughts** I've recently started 100DaysOfCode, and it's i feel a sense of excitement on the upcoming days. 99 more days to go!
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. [CS50 Problem Set 2](https://cs50.harvard.edu/x/2022/psets/2/)
