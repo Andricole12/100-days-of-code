@@ -20,11 +20,20 @@
  -->
 
 <!-- 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
-### Day 1: June 27, Sunday
+### Day 1: August 7, Sunday
 
-**Today's Progress**: I've gone through the week 2 lecture of CS50.
+**Today's Progress**: I've gone through the week 2 lecture of CS50. Finished 1st part of problem set 2, readability
 
 **Thoughts** I've recently started 100DaysOfCode, and it's i feel a sense of excitement on the upcoming days. 99 more days to go!
+
+**Link(s) to work**
+1. [CS50 Problem Set 2](https://cs50.harvard.edu/x/2022/psets/2/)
+
+### Day 2: August 8, Monday
+
+**Today's Progress**: I've gone through the week 2 lecture of CS50. Started 2nd part of problem set 2, caesar.
+
+**Thoughts** Got annoyed since some of the tests failed when I ran it on check50. I should have researched more on what the tests actually do but I'll leave it for tomorrow.
 
 **Link(s) to work**
 1. [CS50 Problem Set 2](https://cs50.harvard.edu/x/2022/psets/2/)
