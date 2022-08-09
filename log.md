@@ -31,9 +31,18 @@
 
 ### Day 2: August 8, Monday
 
-**Today's Progress**: I've gone through the week 2 lecture of CS50. Started 2nd part of problem set 2, caesar.
+**Today's Progress**: Started 2nd part of problem set 2, caesar.
 
 **Thoughts** Got annoyed since some of the tests failed when I ran it on check50. I should have researched more on what the tests actually do but I'll leave it for tomorrow.
+
+**Link(s) to work**
+1. [CS50 Problem Set 2](https://cs50.harvard.edu/x/2022/psets/2/)
+
+### Day 3: August 9, Tuesday
+
+**Today's Progress**: Finished 2nd part of problem set 2, caesar.
+
+**Thoughts** One of the tests didn't work and I had to submit since I had no clue how to fix it. :<
 
 **Link(s) to work**
 1. [CS50 Problem Set 2](https://cs50.harvard.edu/x/2022/psets/2/)
