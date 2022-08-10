@@ -46,3 +46,12 @@
 
 **Link(s) to work**
 1. [CS50 Problem Set 2](https://cs50.harvard.edu/x/2022/psets/2/)
+
+### Day 4: August 10, Wednesday
+
+**Today's Progress**: Finished CS50's lab 2, scrabble.
+
+**Thoughts**  Officialy finished week 2!! onto week 3 hehe. When I did the lab, I was surprised since I finished it faster than I hoped. When I used check50 every test was already correct. Suffice to say I felt like a God.
+
+**Link(s) to work**
+1. [CS50 Lab 2](https://cs50.harvard.edu/x/2022/labs/2/)
