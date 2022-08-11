@@ -55,3 +55,11 @@
 
 **Link(s) to work**
 1. [CS50 Lab 2](https://cs50.harvard.edu/x/2022/labs/2/)
+
+### Day 5: August 11, Thursday
+
+**Today's Progress**: Finished a leetcode problem. Palindrome number
+
+**Thoughts**  Tried to do something easy as sort of a palate cleanser for the upcoming CS50 week 3
+**Link(s) to work**
+1. [Palindrome Number](https://leetcode.com/submissions/detail/771001253/)
