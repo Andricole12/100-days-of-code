@@ -63,3 +63,11 @@
 **Thoughts**  Tried to do something easy as sort of a palate cleanser for the upcoming CS50 week 3
 **Link(s) to work**
 1. [Palindrome Number](https://leetcode.com/submissions/detail/771001253/)
+
+### Day 6: August 12, Friday
+
+**Today's Progress**: Finished a leetcode problem. Add number
+
+**Thoughts**  I was watching CS50 today but couldn't do one of its problems today so I opted for leetcode. Leetcode is too hard man so I just Googled the answer I feel bad.
+**Link(s) to work**
+1. [Add Number](https://leetcode.com/submissions/detail/771848017/)
