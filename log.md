@@ -72,7 +72,7 @@
 **Link(s) to work**
 1. [Add Number](https://leetcode.com/submissions/detail/771848017/)
 
-### Day 7: August 17, Saturday
+### Day 7: August 13, Saturday
 
 **Today's Progress**: Finished lab 3 of CS50
 
@@ -80,3 +80,10 @@
 **Link(s) to work**
 1. [Lab 3](https://cs50.harvard.edu/x/2022/labs/3/)
 
+### Day 8: August 14, Sunday
+
+**Today's Progress**: Finished problem set 3 of CS50, plurality
+
+**Thoughts**  Had to find a youtube video to understand it. I feel sad but hey I did it yeepee!
+**Link(s) to work**
+1. [Plurality](https://cs50.harvard.edu/x/2022/psets/3/)
