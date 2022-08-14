@@ -78,10 +78,5 @@
 
 **Thoughts**  Just finihsed watching CS50 today and decided to do lab 3 but it was just writing so i wanted to do more but no thanks.
 **Link(s) to work**
-1. [Lab 3](### Day 6: August 12, Friday
+1. [Lab 3](https://cs50.harvard.edu/x/2022/labs/3/)
 
-**Today's Progress**: Finished a leetcode problem. Add number
-
-**Thoughts**  I was watching CS50 today but couldn't do one of its problems today so I opted for leetcode. Leetcode is too hard man so I just Googled the answer I feel bad.
-**Link(s) to work**
-1. [Add Number](https://leetcode.com/submissions/detail/771848017/)
