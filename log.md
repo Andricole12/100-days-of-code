@@ -87,3 +87,12 @@
 **Thoughts**  Had to find a youtube video to understand it. I feel sad but hey I did it yeepee!
 **Link(s) to work**
 1. [Plurality](https://cs50.harvard.edu/x/2022/psets/3/)
+
+### Day 9: August 15, Monday
+
+**Today's Progress**: Finished problem set 3 of CS50, RunOff
+
+**Thoughts**  omigosh this was a very hard day!! Not only did the codespace not work for the whole day and I had to do the whole project tonight, I looked at youtube again!! I hate myself :<
+
+**Link(s) to work**
+1. [RunOff](https://cs50.harvard.edu/x/2022/psets/3/)
