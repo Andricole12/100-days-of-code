@@ -96,3 +96,12 @@
 
 **Link(s) to work**
 1. [RunOff](https://cs50.harvard.edu/x/2022/psets/3/)
+
+### Day 10: August 16, Tuesday
+
+**Today's Progress**: Finished a leetcode problem called roman to integer
+
+**Thoughts**  My brain is currently melting from the heat and flames of this problem. I cannot imagine why this was easy. i copied the answer on the internet because I can't handle it anymore. I tried to understand it but only understood some of which I already added on my selfmade program. That's all goodbye. I need to sleep
+
+**Link(s) to work**
+1. [Roman to Integer](https://leetcode.com/submissions/detail/775113093/)
