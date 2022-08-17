@@ -105,3 +105,9 @@
 
 **Link(s) to work**
 1. [Roman to Integer](https://leetcode.com/submissions/detail/775113093/)
+
+### Day 11: August 17, Wednesday
+
+**Today's Progress**: Watched week 4 of CS50
+
+**Thoughts**  I think I need a break after all that memory thing because MY memory is NONEXISTENT. Not gonna do coding stuff today so I can process what happened this week
