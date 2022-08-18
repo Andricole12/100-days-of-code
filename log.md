@@ -111,3 +111,12 @@
 **Today's Progress**: Watched week 4 of CS50
 
 **Thoughts**  I think I need a break after all that memory thing because MY memory is NONEXISTENT. Not gonna do coding stuff today so I can process what happened this week
+
+### Day 12: August 18, Thursday
+
+**Today's Progress**: Finished lab 4 of CS50
+
+**Thoughts**  Wifi was off for half of the day so I just slept. It felt nice. Oh yeah the code umm it was good too
+
+**Link(s) to work**
+1. [Volume](https://cs50.harvard.edu/x/2022/labs/4/)
