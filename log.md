@@ -120,3 +120,12 @@
 
 **Link(s) to work**
 1. [Volume](https://cs50.harvard.edu/x/2022/labs/4/)
+
+### Day 13: August 19, Friday
+
+**Today's Progress**: Started Problem Set 4, Filter
+
+**Thoughts**  Feeling pretty overwhelmed so tried to understand what I had to do with the program today. I feel so slow :<
+
+**Link(s) to work**
+1. [Filter](https://cs50.harvard.edu/x/2022/psets/4/filter/less/)
