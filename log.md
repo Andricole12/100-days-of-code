@@ -129,3 +129,12 @@
 
 **Link(s) to work**
 1. [Filter](https://cs50.harvard.edu/x/2022/psets/4/filter/less/)
+
+### Day 14: August 20, saturday
+
+**Today's Progress**: Progress with Problem Set 4, Filter
+
+**Thoughts**  I'm 3/4 of the way there and didn't need that much help with yt. I feel very accomplished
+
+**Link(s) to work**
+1. [Filter](https://cs50.harvard.edu/x/2022/psets/4/filter/less/)
