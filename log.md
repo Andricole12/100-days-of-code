@@ -147,3 +147,12 @@
 
 **Link(s) to work**
 1. [Filter](https://cs50.harvard.edu/x/2022/psets/4/filter/less/)
+
+### Day 16: August 22, Monday
+
+**Today's Progress**: Finished Problem Set 4, Recover
+
+**Thoughts**  My back hurts. I can's sit anymore I want to sleep and dream and stuff. GAHHHH
+
+**Link(s) to work**
+1. [Recover](https://cs50.harvard.edu/x/2022/psets/4/recover/)
