@@ -156,3 +156,12 @@
 
 **Link(s) to work**
 1. [Recover](https://cs50.harvard.edu/x/2022/psets/4/recover/)
+
+### Day 17: August 23, Tuesday
+
+**Today's Progress**: Watched CS50's week 5 lecture
+
+**Thoughts**  So much to do for school damn I can't-
+
+**Link(s) to work**
+1. [Lecture](https://video.cs50.io/-gpsiMiEOHU?screen=3aDF559uVkE&start=6242)
