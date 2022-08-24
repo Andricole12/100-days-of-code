@@ -165,3 +165,12 @@
 
 **Link(s) to work**
 1. [Lecture](https://video.cs50.io/-gpsiMiEOHU?screen=3aDF559uVkE&start=6242)
+
+### Day 18: August 24, Wednesday
+
+**Today's Progress**: Watched CS50's week 5 lecture
+
+**Thoughts**  I basically just played the new update of Genshin today... Damn
+
+**Link(s) to work**
+1. [Lecture](https://video.cs50.io/-gpsiMiEOHU?screen=3aDF559uVkE&start=6242)
