@@ -174,3 +174,12 @@
 
 **Link(s) to work**
 1. [Lecture](https://video.cs50.io/-gpsiMiEOHU?screen=3aDF559uVkE&start=6242)
+
+### Day 19: August 25, Thursday
+
+**Today's Progress**: Finished CS50's week 5 lecture
+
+**Thoughts**  Jesus Christ. I am so slow. gaahhhhh
+
+**Link(s) to work**
+1. [Lecture](https://video.cs50.io/-gpsiMiEOHU?screen=3aDF559uVkE&start=6242)
