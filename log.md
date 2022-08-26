@@ -183,3 +183,12 @@
 
 **Link(s) to work**
 1. [Lecture](https://video.cs50.io/-gpsiMiEOHU?screen=3aDF559uVkE&start=6242)
+
+### Day 20: August 26, Friday
+
+**Today's Progress**: Finished CS50's week 5 lab, Inheritance
+
+**Thoughts**  Finally I wrote some code again.
+
+**Link(s) to work**
+1. [Inheritance](https://cs50.harvard.edu/x/2022/labs/5/)
