@@ -192,3 +192,12 @@
 
 **Link(s) to work**
 1. [Inheritance](https://cs50.harvard.edu/x/2022/labs/5/)
+
+### Day 21: August 27, Saturday
+
+**Today's Progress**: Finished CS50's week 5 lab, Speller
+
+**Thoughts**  Some of the letter in my keyboard don't work. I might die now..
+
+**Link(s) to work**
+1. [Speller](https://cs50.harvard.edu/x/2022/psets/5/speller/)
