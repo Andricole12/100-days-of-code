@@ -201,3 +201,12 @@
 
 **Link(s) to work**
 1. [Speller](https://cs50.harvard.edu/x/2022/psets/5/speller/)
+
+### Day 22: August 28, Sunday
+
+**Today's Progress**: Watched CS50's lecture week 6, Python
+
+**Thoughts**  I know python hehe
+
+**Link(s) to work**
+1. [Week 6](https://video.cs50.io/ky-24RvI57s?screen=Og2McYZctoM)
