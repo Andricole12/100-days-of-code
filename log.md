@@ -210,3 +210,12 @@
 
 **Link(s) to work**
 1. [Week 6](https://video.cs50.io/ky-24RvI57s?screen=Og2McYZctoM)
+
+### Day 23: August 29, Monday
+
+**Today's Progress**: Watched CS50's lecture week 6, Python
+
+**Thoughts**  Did homework today i guess
+
+**Link(s) to work**
+1. [Week 6](https://video.cs50.io/ky-24RvI57s?screen=Og2McYZctoM)
