@@ -219,3 +219,12 @@
 
 **Link(s) to work**
 1. [Week 6](https://video.cs50.io/ky-24RvI57s?screen=Og2McYZctoM)
+
+### Day 24: August 30, Tueday
+
+**Today's Progress**: Finished Lab 6 of CS50, World Cup
+
+**Thoughts**  coding is hard man especially with a keyboard that can't type well
+
+**Link(s) to work**
+1. [World Cup](https://cs50.harvard.edu/x/2022/labs/6/)
