@@ -220,7 +220,7 @@
 **Link(s) to work**
 1. [Week 6](https://video.cs50.io/ky-24RvI57s?screen=Og2McYZctoM)
 
-### Day 24: August 30, Tueday
+### Day 24: August 30, Tuesday
 
 **Today's Progress**: Finished Lab 6 of CS50, World Cup
 
@@ -228,3 +228,9 @@
 
 **Link(s) to work**
 1. [World Cup](https://cs50.harvard.edu/x/2022/labs/6/)
+
+### Day 25: August 31, Wednesday
+
+**Today's Progress**: Done nothing hehe
+
+**Thoughts**  sorry im sorry
