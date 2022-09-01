@@ -234,3 +234,12 @@
 **Today's Progress**: Done nothing hehe
 
 **Thoughts**  sorry im sorry
+
+### Day 26: September 1, Thursday
+
+**Today's Progress**: Finished Problem set 6 of CS50, Mario
+
+**Thoughts**  I hate this keyboard
+
+**Link(s) to work**
+1. [Mario](https://cs50.harvard.edu/x/2022/psets/6/mario/less/)
