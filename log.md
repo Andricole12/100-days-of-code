@@ -243,3 +243,12 @@
 
 **Link(s) to work**
 1. [Mario](https://cs50.harvard.edu/x/2022/psets/6/mario/less/)
+
+### Day 27: September 2, Friday
+
+**Today's Progress**: Finished Problem set 6 of CS50, Change
+
+**Thoughts**  I hate this keyboard(2)
+
+**Link(s) to work**
+1. [Change](https://cs50.harvard.edu/x/2022/psets/6/cash/)
