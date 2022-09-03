@@ -252,3 +252,12 @@
 
 **Link(s) to work**
 1. [Change](https://cs50.harvard.edu/x/2022/psets/6/cash/)
+
+### Day 28: September 3, Saturday
+
+**Today's Progress**: Finished Problem set 6 of CS50, Readability
+
+**Thoughts**  I hate this keyboard(3)
+
+**Link(s) to work**
+1. [Readability](https://cs50.harvard.edu/x/2022/psets/6/readability/)
