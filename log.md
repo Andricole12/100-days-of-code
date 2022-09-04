@@ -261,3 +261,12 @@
 
 **Link(s) to work**
 1. [Readability](https://cs50.harvard.edu/x/2022/psets/6/readability/)
+
+### Day 29: September 4, Saturday
+
+**Today's Progress**: Finished Problem set 6 of CS50, DNA
+
+**Thoughts**  I hate this keyboard(4) and I also hate the paint it wasted my day
+
+**Link(s) to work**
+1. [DNA](https://cs50.harvard.edu/x/2022/psets/6/dna/)
