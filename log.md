@@ -262,7 +262,7 @@
 **Link(s) to work**
 1. [Readability](https://cs50.harvard.edu/x/2022/psets/6/readability/)
 
-### Day 29: September 4, Saturday
+### Day 29: September 4, Sunday
 
 **Today's Progress**: Finished Problem set 6 of CS50, DNA
 
