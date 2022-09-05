@@ -270,3 +270,12 @@
 
 **Link(s) to work**
 1. [DNA](https://cs50.harvard.edu/x/2022/psets/6/dna/)
+
+### Day 30: September 5, Monday
+
+**Today's Progress**: Watched week 7 of CS50, SQL but haven't finished
+
+**Thoughts**  My back hertz haha :{
+
+**Link(s) to work**
+1. [SQL](https://video.cs50.io/D-1kNFO568c?screen=YR-XuGdWvR8&start=3212)
