@@ -279,3 +279,12 @@
 
 **Link(s) to work**
 1. [SQL](https://video.cs50.io/D-1kNFO568c?screen=YR-XuGdWvR8&start=3212)
+
+### Day 31: September 6, Tuesday
+
+**Today's Progress**: Finished week 7 of CS50, SQL
+
+**Thoughts**  keyboard has frickin mold jadfnajodfnadfn
+
+**Link(s) to work**
+1. [SQL](https://video.cs50.io/D-1kNFO568c?screen=YR-XuGdWvR8&start=3212)
