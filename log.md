@@ -288,3 +288,12 @@
 
 **Link(s) to work**
 1. [SQL](https://video.cs50.io/D-1kNFO568c?screen=YR-XuGdWvR8&start=3212)
+
+### Day 32: September 7, Wednesday
+
+**Today's Progress**: Finished Lab 7 of CS50, songs
+
+**Thoughts**  i am heading towards insanity lmao
+
+**Link(s) to work**
+1. [songs](https://cs50.harvard.edu/x/2022/labs/7/)
