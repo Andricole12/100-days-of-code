@@ -297,3 +297,9 @@
 
 **Link(s) to work**
 1. [songs](https://cs50.harvard.edu/x/2022/labs/7/)
+
+### Day 33: September 8, Thursday
+
+**Today's Progress**: Done nothing lmao
+
+**Thoughts**  zfgzdfgeryhhjny
