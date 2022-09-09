@@ -302,4 +302,13 @@
 
 **Today's Progress**: Done nothing lmao
 
-**Thoughts**  zfgzdfgeryhhjny
+**Thoughts**  zfgzdfgeryhhjnyertg
+
+### Day 34: September 9, Friday
+
+**Today's Progress**: Finished half of problem set 7, movies
+
+**Thoughts**  i am heading towards insanity lmao
+
+**Link(s) to work**
+1. [movies](https://cs50.harvard.edu/x/2022/psets/7/movies/)
