@@ -321,3 +321,12 @@
 
 **Link(s) to work**
 1. [movies](https://cs50.harvard.edu/x/2022/psets/7/movies/)
+
+### Day 36: September 11, Sunday
+
+**Today's Progress**: Finished problem set 7, FiftyVille
+
+**Thoughts**  Need to do homework today haha.
+
+**Link(s) to work**
+1. [FiftyVille](https://cs50.harvard.edu/x/2022/psets/7/fiftyville/)
