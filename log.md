@@ -312,3 +312,12 @@
 
 **Link(s) to work**
 1. [movies](https://cs50.harvard.edu/x/2022/psets/7/movies/)
+
+### Day 35: September 10, Saturday
+
+**Today's Progress**: Finished problem set 7, movies
+
+**Thoughts**  i am heading towards insanity lmao(2). forgot to log yesterday
+
+**Link(s) to work**
+1. [movies](https://cs50.harvard.edu/x/2022/psets/7/movies/)
