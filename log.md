@@ -330,3 +330,11 @@
 
 **Link(s) to work**
 1. [FiftyVille](https://cs50.harvard.edu/x/2022/psets/7/fiftyville/)
+
+
+### Day 37: September 12, Monday
+
+**Today's Progress**: Finished nothing hehe
+
+**Thoughts**  Need to do homework today haha.
+
