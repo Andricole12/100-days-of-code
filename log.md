@@ -338,3 +338,8 @@
 
 **Thoughts**  Need to do homework today haha.
 
+### Day 38: September 13, Tuesday
+
+**Today's Progress**: Finished week 8 of CS50, Front-End
+
+**Thoughts**  andjokfnajodfnaojndbf
