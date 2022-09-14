@@ -331,7 +331,6 @@
 **Link(s) to work**
 1. [FiftyVille](https://cs50.harvard.edu/x/2022/psets/7/fiftyville/)
 
-
 ### Day 37: September 12, Monday
 
 **Today's Progress**: Finished nothing hehe
@@ -343,3 +342,9 @@
 **Today's Progress**: Finished week 8 of CS50, Front-End
 
 **Thoughts**  andjokfnajodfnaojndbf
+
+### Day 39: September 14, Wednesday
+
+**Today's Progress**: Finished nothing fuiabqnqedfiq    abhf
+
+**Thoughts**  i am heading towards insanity lmao more more mreo
