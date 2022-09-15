@@ -339,7 +339,7 @@
 
 ### Day 38: September 13, Tuesday
 
-**Today's Progress**: Finished week 8 of CS50, Front-End
+**Today's Progress**: Finished lecture video week 8 of CS50, Front-End
 
 **Thoughts**  andjokfnajodfnaojndbf
 
@@ -348,3 +348,9 @@
 **Today's Progress**: Finished nothing fuiabqnqedfiq    abhf
 
 **Thoughts**  i am heading towards insanity lmao more more mreo
+
+### Day 40: September 15, Thursday
+
+**Today's Progress**: Finished lecture video CS50, Cyber Security
+
+**Thoughts**  I hate doing nothing.
