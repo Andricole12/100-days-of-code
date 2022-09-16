@@ -61,6 +61,7 @@
 **Today's Progress**: Finished a leetcode problem. Palindrome number
 
 **Thoughts**  Tried to do something easy as sort of a palate cleanser for the upcoming CS50 week 3
+
 **Link(s) to work**
 1. [Palindrome Number](https://leetcode.com/submissions/detail/771001253/)
 
@@ -69,6 +70,7 @@
 **Today's Progress**: Finished a leetcode problem. Add number
 
 **Thoughts**  I was watching CS50 today but couldn't do one of its problems today so I opted for leetcode. Leetcode is too hard man so I just Googled the answer I feel bad.
+
 **Link(s) to work**
 1. [Add Number](https://leetcode.com/submissions/detail/771848017/)
 
@@ -77,6 +79,7 @@
 **Today's Progress**: Finished lab 3 of CS50
 
 **Thoughts**  Just finihsed watching CS50 today and decided to do lab 3 but it was just writing so i wanted to do more but no thanks.
+
 **Link(s) to work**
 1. [Lab 3](https://cs50.harvard.edu/x/2022/labs/3/)
 
@@ -85,6 +88,7 @@
 **Today's Progress**: Finished problem set 3 of CS50, plurality
 
 **Thoughts**  Had to find a youtube video to understand it. I feel sad but hey I did it yeepee!
+
 **Link(s) to work**
 1. [Plurality](https://cs50.harvard.edu/x/2022/psets/3/)
 
@@ -354,3 +358,12 @@
 **Today's Progress**: Finished lecture video CS50, Cyber Security
 
 **Thoughts**  I hate doing nothing.
+
+### Day 41: September 16, Friday
+
+**Today's Progress**: Started CS50's week 8 lab, trivia
+
+**Thoughts**  Cuz we can stay at home and watch the sunset...
+
+**Link(s) to work**
+1. [Trivia](https://cs50.harvard.edu/x/2022/labs/8/)
