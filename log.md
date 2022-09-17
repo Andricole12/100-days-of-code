@@ -367,3 +367,9 @@
 
 **Link(s) to work**
 1. [Trivia](https://cs50.harvard.edu/x/2022/labs/8/)
+
+### Day 42: September 17, Saturday
+
+**Today's Progress**: Started nothing
+
+**Thoughts**  ...
