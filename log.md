@@ -385,3 +385,9 @@
 **Today's Progress**: Started nothing
 
 **Thoughts**  ...
+
+### Day 45: September 20, Tuesday
+
+**Today's Progress**: Did some progress on the lab.
+
+**Thoughts**  I think I'm gonna finish week 8 this week
