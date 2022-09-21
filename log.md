@@ -391,3 +391,9 @@
 **Today's Progress**: Did some progress on the lab.
 
 **Thoughts**  I think I'm gonna finish week 8 this week
+
+### Day 46: September 21, Wednesday
+
+**Today's Progress**: Did some progress on the lab.
+
+**Thoughts**  I think I'm gonna finish week 8 this week
