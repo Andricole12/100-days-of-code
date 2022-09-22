@@ -392,8 +392,8 @@
 
 **Thoughts**  I think I'm gonna finish week 8 this week
 
-### Day 46: September 21, Wednesday
+### Day 47: September 22, Thursday
 
-**Today's Progress**: Did some progress on the lab.
+**Today's Progress**: Did some nothing.
 
 **Thoughts**  I think I'm gonna finish week 8 this week
