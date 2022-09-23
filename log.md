@@ -397,3 +397,12 @@
 **Today's Progress**: Did some nothing.
 
 **Thoughts**  I think I'm gonna finish week 8 this week
+
+### Day 48: September 23, Friday
+
+**Today's Progress**: Did the javascript to conditional in lab 8.
+
+**Thoughts**  I think I'm not gonna finish week 8 this week. All needed for lab left is
+change css
+
+1. [Trivia](https://cs50.harvard.edu/x/2022/labs/8/)
