@@ -406,3 +406,11 @@
 change css
 
 1. [Trivia](https://cs50.harvard.edu/x/2022/labs/8/)
+
+### Day 49: September 24, Saturday
+
+**Today's Progress**:Finished javascript to conditional in lab 8.
+
+**Thoughts**  I need tosleep
+
+1. [Trivia](https://cs50.harvard.edu/x/2022/labs/8/)
