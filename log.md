@@ -414,3 +414,9 @@ change css
 **Thoughts**  I need tosleep
 
 1. [Trivia](https://cs50.harvard.edu/x/2022/labs/8/)
+
+### Day 50: September 25, Sunday
+
+**Today's Progress**:Finished no no.
+
+**Thoughts**  I need tosleep
