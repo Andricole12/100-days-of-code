@@ -426,3 +426,9 @@ change css
 **Today's Progress**:Finished no no.
 
 **Thoughts**  I ndfioanfdioa
+
+### Day 52: September 27, Tuesday
+
+**Today's Progress**:Finished no no.
+
+**Thoughts**  I need to understand myself
