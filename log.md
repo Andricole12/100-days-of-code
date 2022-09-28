@@ -432,3 +432,9 @@ change css
 **Today's Progress**:Finished no no.
 
 **Thoughts**  I need to understand myself
+
+### Day 53: September 28, Wednesday
+
+**Today's Progress**:Finished no no.
+
+**Thoughts**  I need to understand myself
