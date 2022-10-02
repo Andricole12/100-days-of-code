@@ -456,3 +456,9 @@ change css
 **Today's Progress**:Finished no no.
 
 **Thoughts**  I need to understand myself
+
+### Day 57: October 2, Sunday
+
+**Today's Progress**:Add problem set 8 to cloud.
+
+**Thoughts**  I need to off myself
