@@ -457,8 +457,8 @@ change css
 
 **Thoughts**  I need to understand myself
 
-### Day 57: October 2, Sunday
+### Day 58: October 3, Monday
 
-**Today's Progress**:Add problem set 8 to cloud.
+**Today's Progress**:.................
 
-**Thoughts**  I need to off myself
+**Thoughts**  yhahahahhahha i can't-
