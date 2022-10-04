@@ -462,3 +462,9 @@ change css
 **Today's Progress**:.................
 
 **Thoughts**  yhahahahhahha i can't-
+
+### Day 59: October 4, Tuesday
+
+**Today's Progress**:.................
+
+**Thoughts**  cs50 is najndfjianfand
