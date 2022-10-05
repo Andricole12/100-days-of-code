@@ -468,3 +468,9 @@ change css
 **Today's Progress**:.................
 
 **Thoughts**  cs50 is najndfjianfand
+
+### Day 60: October 5, Wednesday
+
+**Today's Progress**:.................
+
+**Thoughts**  jesus christ
