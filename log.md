@@ -480,3 +480,9 @@ change css
 **Today's Progress**:.................
 
 **Thoughts**  jesus christ
+
+### Day 62: October 7, Friday
+
+**Today's Progress**:.................
+
+**Thoughts**  jesus christ
