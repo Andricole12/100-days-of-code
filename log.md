@@ -522,3 +522,15 @@ change css
 **Today's Progress**:.................
 
 **Thoughts**  jesus christ
+
+### Day 69: October 14, Friday
+
+**Today's Progress**:.................
+
+**Thoughts**  jesus christ
+
+### Day 68: October 13, Thursday
+
+**Today's Progress**:.................
+
+**Thoughts**  jesus christ
