@@ -529,7 +529,7 @@ change css
 
 **Thoughts**  jesus christ
 
-### Day 68: October 13, Thursday
+### Day 70: October 15, Saturday
 
 **Today's Progress**:.................
 
