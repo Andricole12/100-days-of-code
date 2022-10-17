@@ -540,3 +540,9 @@ change css
 **Today's Progress**:.................
 
 **Thoughts**  jesus christ
+
+### Day 72: October 17, Monday
+
+**Today's Progress**:.................
+
+**Thoughts**  jesus christ
