@@ -558,3 +558,9 @@ change css
 **Today's Progress**:.................
 
 **Thoughts**  jesus christ
+
+### Day 75: October 20, Thursday
+
+**Today's Progress**:.................
+
+**Thoughts**  jesus christ
